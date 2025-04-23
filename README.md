@@ -1,5 +1,8 @@
 # 📘  Banking Dashboard (Power BI)
 
+![Image](https://github.com/user-attachments/assets/5b100cc2-5196-478d-9594-252490cfb2be)
+![Image](https://github.com/user-attachments/assets/5b100cc2-5196-478d-9594-252490cfb2be)
+
 ## 🎯 Objective
 
 The main goal of this project is to build a dynamic, easy-to-use Power BI dashboard that gives banking professionals a bird’s-eye view of their operations, customer behavior, and loan performance.
